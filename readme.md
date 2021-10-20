@@ -7,3 +7,7 @@
 
 ![enter image description here](https://github.com/shikikan-neko08/kogecha-dotfiles/blob/main/assets/2021-10-20-081926_1360x768_scrot.png)
 
+* OS : Arch linux
+* WM : i3-gaps
+* Term : kitty
+* Font : iosevka Custom
